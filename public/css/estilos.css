@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient( rgb(136, 250, 6), rgb(8, 213, 240));
+}
+
+#reileao{
+    height: 360px;
+    padding-left: 140px;
+}
+
+#folha{
+    
+}
+
+.campo-digitacao{
+    font-size: 20px;
+    height: 130px;
+    border-radius: 10px;
+    border: 3px solid yellow;
+}
+
+.frase{
+    font-size: 20px;
+    
+}
+
+.campo-desativado{
+    background-color: lightgray;
+}
+
+.icones{
+    vertical-align: middle;
+}
+.borda-correto{
+    border: 8px solid green;
+}
+
+.borda-errado{
+    border: 3px solid red;
+}
+
