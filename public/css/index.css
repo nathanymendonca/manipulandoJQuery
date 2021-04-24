@@ -1,0 +1,27 @@
+body{
+    background: linear-gradient( rgb(136, 250, 6), rgb(8, 213, 240));
+    overflow: scroll;
+}
+
+.card{
+	width: 49%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+
+#botao-jogue{
+	width: 150px;
+	display: block;
+	margin: 50px auto;
+	border-radius: 10px;
+	padding-bottom: 20px;
+}
+
+.imagem-jogo {
+	border: 2px solid gray;
+}
+
+.slider{
+	height: auto;
+}
